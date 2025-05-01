@@ -2,12 +2,16 @@
 
 ## Basic Brine
 
-I always forget this ratio
+I always forget this ratio.
 
-- Water 1 quart (4 cups) 
-- Salt  1-3 Tbsp (mix well)
+### Ingredients
 
-Scale up or down proportionally for the desired volume
+- 1 quart/4 cups Water 
+- 1-3 Tbsp Salt
+
+### Instructions
+
+Just mix. 
 
 ## Hot Sauce
 

@@ -2,7 +2,7 @@
 
 ## Ingredients
 
-Gnudi
+### Gnudi
 
 - 12 ounces (1½ cups)
 - ½ cup all-purpose flour
@@ -15,7 +15,7 @@ Gnudi
 - 10 ounces frozen whole-leaf spinach, thawed and squeezed dry
 - 2 large egg whites, lightly beaten
 
-Gnudi Sauce
+### Gnudi Sauce
 
 - 4 tablespoons
 - 3 garlic cloves, sliced thin
@@ -27,17 +27,17 @@ Gnudi Sauce
 
 ## Instructions
 
-### BEFORE YOU BEGIN
+### 1 - Before you Begin
 
 Ricotta without stabilizers such as locust bean, guar, and xanthan gums drains more readily. You can substitute part-skim ricotta for the whole-milk ricotta. Frozen whole-leaf spinach is easiest to squeeze dry, but frozen chopped spinach will work. Squeezing the spinach should remove ½ to ⅔ cup of liquid; you should have ⅔ cup of finely chopped spinach.
 
-### THE GNUDI
+### 2 - Making the Gnudi
 
 Line rimmed baking sheet with double layer of paper towels. Spread ricotta in even layer over towels; set aside and let sit for 10 minutes. Place flour, Parmesan, panko, salt, pepper, and lemon zest in large bowl and stir to combine. Process spinach in food processor until finely chopped, about 30 seconds, scraping down sides of bowl as needed. Transfer spinach to bowl with flour mixture. Grasp paper towels and fold ricotta in half; peel back towels. Rotate sheet 90 degrees and repeat folding and peeling 2 more times to consolidate ricotta into smaller mass. Using paper towels as sling, transfer ricotta to bowl with spinach mixture. Discard paper towels but do not wash sheet. Add egg whites to bowl and mix gently until well combined.
 
 Transfer heaping teaspoons of dough to now-empty sheet (you should have 45 to 50 portions). Using your dry hands, gently roll each portion into 1-inch ball.
 
-### THE SAUCE
+### 3 - Making the Sauce
 
 Melt butter in small saucepan over medium heat. Add garlic and cook, swirling saucepan occasionally, until butter is very foamy and garlic is pale golden brown, 2 to 3 minutes. Off heat, add tomatoes and vinegar; cover and set aside.
 
